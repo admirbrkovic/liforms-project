@@ -1,0 +1,74 @@
+
+
+
+.city-form {
+	
+	background-image:url("../images/6240424027_b5fdf400aa_b.jpg");
+	
+	.btn1 {
+		background-color: blue;
+		height: 40px;
+		width: 200px;
+		border-radius: 5px;
+		color: white;
+		margin-left: 350px;
+		margin-top: 80px;
+		border: 10px;
+
+	}
+
+	.btn2 {
+		background-color: #10dfff;
+		height: 40px;
+		width: 200px;
+		border-radius: 5px;
+		color: white;
+		margin-left: 50px;
+		margin-top: 80px;
+		border: 10px;
+	}
+
+	
+
+	.right-inner-addon {
+       position: relative;
+       width: 450px;
+       height: 100px;
+       margin-top: 100px;
+       margin-left: 350px;
+    }
+    .right-inner-addon input {
+       padding-right: 30px;  
+       font-size: 18px;
+    }
+    .right-inner-addon i {
+        position: absolute;
+        right: 0px;
+        padding: 10px 12px;
+        padding-top: 29px;
+        padding-right: 20px;
+        pointer-events: none;
+    }
+
+    .right-inner-addon1 {
+       position: relative;
+       width: 450px;
+       height: 100px;
+       margin-top: -25px;
+       margin-left: 350px;
+    }
+    .right-inner-addon1 input {
+       padding-right: 30px;  
+       font-size: 18px;
+    }
+    .right-inner-addon1 i {
+        position: absolute;
+        right: 0px;
+        padding: 10px 12px;
+        padding-top: 29px;
+        padding-right: 20px;
+        pointer-events: none;
+    }
+
+
+}
