@@ -1,0 +1,115 @@
+.free-form {
+	
+	background-color: #4f535c;
+
+
+	.forma1 {
+		height: 380px;
+		width: 400px;
+		background-color: #f1f2f4;
+		margin-left: 420px;
+		margin-top: 150px;
+		border-radius: 5px;
+		text-align: center;
+		padding-top: 50px;
+		font-family: sans-serif, verdana;
+	}
+
+	h5  {
+		margin-top: -15px;
+		color: #bbbcc0;
+	}
+
+	.left-inner-addon {
+        position: relative;
+        width: 290px;
+        margin-left: 55px;
+        margin-top: 20px;
+        height: 200px;
+
+
+    }
+    .left-inner-addon input {
+        padding-left: 50px; 
+        border-radius: 6px 6px 0px 0px;   
+        background-color: #e7e9e8;
+        border: 2px solid #e0e0e0;
+    }
+    .left-inner-addon i {
+        position: absolute;
+        padding: 10px 12px;
+        pointer-events: none;
+        margin-top: 17px;
+        margin-left: 5px;
+        color: grey;
+    }
+
+    .left-inner-addon2 {
+        position: relative;
+        width: 290px;
+        margin-left: 0px;
+        margin-top: -20px;
+        height: 200px;
+
+    }
+    .left-inner-addon2 input {
+        padding-left: 50px; 
+        border-radius: 0px 0px 6px 6px;   
+        background-color: #e7e9e8;
+    }
+    .left-inner-addon2 i {
+        position: absolute;
+        padding: 10px 12px;
+        pointer-events: none;
+        margin-top: 17px;
+        margin-left: 10px;
+    }
+
+    .btn3 {
+    	width: 290px;
+    	height: 50px;
+    	margin-top: 20px;
+    	border: 0px;
+    	border-radius: 5px;
+    	font-weight: bold;
+    	background: -webkit-linear-gradient(top, #6ad0c5 0%,#76a89f 100%);
+    	color: white;
+    }
+
+   
+    }
+
+    #last-line {
+    	height: 3px;
+    	background-color: #4f535c;
+    	width: 80px;
+    	margin-left: 108px;
+    	margin-top: -380px;
+    	position: absolute;
+    }
+
+    #last-block {
+    	height: 70px;
+    	width: 50px;
+    	background-color: grey;
+    	margin-left: 123px;
+    	margin-top: -450px;
+    	opacity: .5;
+    	border-top: 4px solid silver;
+    	border-radius: 5px 5px 0px 0px;
+
+    }
+
+    #last-circle {
+    	height: 20px;
+    	width: 20px;
+    	background-color: black;
+    	border-radius: 30px;
+    	border: 4px solid silver;
+    	margin-left: 193px;
+    	margin-top: -370px;
+    }
+
+
+
+    
