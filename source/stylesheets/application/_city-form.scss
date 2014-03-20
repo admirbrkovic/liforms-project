@@ -52,6 +52,7 @@
         padding-top: 29px;
         padding-right: 20px;
         pointer-events: none;
+        color: #a2aba9;
     }
 
     .right-inner-addon1 {
@@ -74,6 +75,7 @@
         padding-top: 29px;
         padding-right: 20px;
         pointer-events: none;
+        color: #a2aba9;
     }
 
     .line {
@@ -132,6 +134,11 @@
         margin-top: 30px;
         margin-left :515px; 
     }
+
+    input:focus {
+        border: solid 3px #0a65c4;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      }
 
 
 
